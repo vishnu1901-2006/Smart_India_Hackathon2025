@@ -33,18 +33,20 @@ Farmers often face challenges like:
 ---
 
 ## 📂 Repository Structure  
-├── backend/ # FastAPI backend with ML model
-│ ├── main.py # API routes
-│ ├── model.pkl # Trained ML model
-│ └── requirements.txt
-├── frontend/ # React.js frontend
-│ ├── src/
-│ ├── public/
-│ └── package.json
-├── data/ # Dataset files (crop_yield.xlsx, data_core.xlsx, etc.)
-├── notebooks/ # Jupyter notebooks for model training & experiments
-├── docs/ # Project documentation, presentations
-└── README.md # Project overview (this file)
+```
+- backend/ # FastAPI backend with ML model
+  - main.py # API routes
+  - model.pkl # Trained ML model
+  - requirements.txt
+- frontend/ # React.js frontend
+  - src/
+  - public/
+  - package.json
+- data/ # Dataset files (crop_yield.xlsx, data_core.xlsx, etc.)
+- notebooks/ # Jupyter notebooks for model training & experiments
+- docs/ # Project documentation, presentations
+- README.md # Project overview (this file)
+```
 
 
 ---
@@ -86,9 +88,9 @@ Frontend will run on: http://localhost:3000
 - AI chatbot assistant for farmer queries.
 
 ## 👥 Team - HackersInc
-- [Member 1 – Role]
-- [Member 2 – Role]
-- [Member 3 – Role]
-- [Member 4 – Role]
-- [Member 5 – Role]
-- [Member 6 – Role]
+- Vishnukant Bajpai
+- Naman Kumar Bansal 
+- Saad Khan
+- Nikita
+- Ankit Singh
+- Virat Singh
